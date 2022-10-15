@@ -9,7 +9,10 @@
     1. Indented item
     2. Indented item
 4. Fourth item
-Maintain the stock of a warehouse.
-Order items from the warehouse.
-Log actions from users.
-Reporting.
+>Maintain the stock of a warehouse.
+
+*Order items from the warehouse.*
+
+>Log actions from users.
+>
+>>Reporting.
